@@ -1,0 +1,9 @@
+{
+  "name": "Gantter to WBS",
+  "postUrl": "http://edistra.com/gantterToWBS/api.php",
+  "authorName": "Edistra",
+  "moreInfoUrl": "http://edistra.com/gantterToWBS/info.php",
+  "type": "popup",
+  "iconUrl": "http://edistra.com/gantterToWBS/icon.png",
+  "private": true
+}
